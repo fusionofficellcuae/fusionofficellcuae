@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fusion Office LLC</title>
+  <title>FUSION OFFICE LLC</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
     header { background: #1a1a1a; color: #fff; padding: 20px; text-align: center; }
@@ -22,7 +22,7 @@
 </head>
 <body>
   <header>
-    <h1>Fusion Office LLC</h1>
+    <h1>FUSION OFFICE LLC</h1>
     <p>Your Trusted Partner for Printers, Toners, Cartridges, and Copy Services</p>
   </header>
 
@@ -36,7 +36,7 @@
     <h2>Our Products</h2>
     <div class="products">
       <div class="product">
-        <img src="https://source.unsplash.com/250x150/?printer,cartridge" alt="Printer Cartridges">
+        <img src="https://source.unsplash.com/250x150/printer,cartridge" alt="Printer Cartridges">
         <h3>Printer Cartridges</h3>
         <p>Wide range of cartridges for HP, Canon, Kyocera, Brother & more.</p>
       </div>
